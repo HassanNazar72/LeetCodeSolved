@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 0,
+  "synced_through": 2190464412,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -590,6 +590,251 @@
       "submissions": [
         {"id":1887136928,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1768589962,"runtime":null,"memory":null},
         {"id":1887138416,"status":"Accepted","lang":"javascript","timestamp":1768590082,"runtime":"8 ms","memory":"69.6 MB"}
+      ]
+    },
+    "valid-sudoku": {
+      "id": "36",
+      "title": "Valid Sudoku",
+      "slug": "valid-sudoku",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Matrix"],
+      "topic": "Array",
+      "dir": "Array/0036-valid-sudoku",
+      "first_attempt_at": 1769293729,
+      "last_attempt_at": 1769294342,
+      "solved_at": 1769293729,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1895798047,"status":"Accepted","lang":"javascript","timestamp":1769294342,"runtime":"8 ms","memory":"57.4 MB"}
+      },
+      "submissions": [
+        {"id":1895793764,"status":"Accepted","lang":"javascript","timestamp":1769293729,"runtime":null,"memory":null},
+        {"id":1895798047,"status":"Accepted","lang":"javascript","timestamp":1769294342,"runtime":"8 ms","memory":"57.4 MB"}
+      ]
+    },
+    "longest-consecutive-sequence": {
+      "id": "128",
+      "title": "Longest Consecutive Sequence",
+      "slug": "longest-consecutive-sequence",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Union-Find"],
+      "topic": "Array",
+      "dir": "Array/0128-longest-consecutive-sequence",
+      "first_attempt_at": 1769363719,
+      "last_attempt_at": 1769365577,
+      "solved_at": 1769363719,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1896810275,"status":"Accepted","lang":"javascript","timestamp":1769365577,"runtime":"38 ms","memory":"80.9 MB"}
+      },
+      "submissions": [
+        {"id":1896776452,"status":"Accepted","lang":"javascript","timestamp":1769363719,"runtime":null,"memory":null},
+        {"id":1896810275,"status":"Accepted","lang":"javascript","timestamp":1769365577,"runtime":"38 ms","memory":"80.9 MB"}
+      ]
+    },
+    "merge-sorted-array": {
+      "id": "88",
+      "title": "Merge Sorted Array",
+      "slug": "merge-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0088-merge-sorted-array",
+      "first_attempt_at": 1769633380,
+      "last_attempt_at": 1769633380,
+      "solved_at": 1769633380,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1900269289,"status":"Accepted","lang":"javascript","timestamp":1769633380,"runtime":"0 ms","memory":"54.5 MB"}
+      },
+      "submissions": [
+        {"id":1900269289,"status":"Accepted","lang":"javascript","timestamp":1769633380,"runtime":"0 ms","memory":"54.5 MB"}
+      ]
+    },
+    "longest-substring-without-repeating-characters": {
+      "id": "3",
+      "title": "Longest Substring Without Repeating Characters",
+      "slug": "longest-substring-without-repeating-characters",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0003-longest-substring-without-repeating-characters",
+      "first_attempt_at": 1775513954,
+      "last_attempt_at": 1775514033,
+      "solved_at": 1775514033,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1971016895,"status":"Accepted","lang":"javascript","timestamp":1775514033,"runtime":"4 ms","memory":"56.6 MB"}
+      },
+      "submissions": [
+        {"id":1971016481,"status":"Wrong Answer","lang":"javascript","timestamp":1775513954,"runtime":null,"memory":null},
+        {"id":1971016895,"status":"Accepted","lang":"javascript","timestamp":1775514033,"runtime":"4 ms","memory":"56.6 MB"}
+      ]
+    },
+    "find-all-anagrams-in-a-string": {
+      "id": "438",
+      "title": "Find All Anagrams in a String",
+      "slug": "find-all-anagrams-in-a-string",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sliding Window"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0438-find-all-anagrams-in-a-string",
+      "first_attempt_at": 1775582237,
+      "last_attempt_at": 1775590491,
+      "solved_at": 1775582237,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1971823379,"status":"Accepted","lang":"javascript","timestamp":1775582237,"runtime":"47 ms","memory":"65.5 MB"}
+      },
+      "submissions": [
+        {"id":1971823379,"status":"Accepted","lang":"javascript","timestamp":1775582237,"runtime":"47 ms","memory":"65.5 MB"},
+        {"id":1971959566,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1775590491,"runtime":null,"memory":null}
+      ]
+    },
+    "squares-of-a-sorted-array": {
+      "id": "977",
+      "title": "Squares of a Sorted Array",
+      "slug": "squares-of-a-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0977-squares-of-a-sorted-array",
+      "first_attempt_at": 1775596825,
+      "last_attempt_at": 1775599564,
+      "solved_at": 1775599301,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1972030807,"status":"Accepted","lang":"javascript","timestamp":1775599564,"runtime":"3 ms","memory":"62.3 MB"}
+      },
+      "submissions": [
+        {"id":1972013901,"status":"Wrong Answer","lang":"javascript","timestamp":1775596825,"runtime":null,"memory":null},
+        {"id":1972017007,"status":"Wrong Answer","lang":"javascript","timestamp":1775597307,"runtime":null,"memory":null},
+        {"id":1972017635,"status":"Wrong Answer","lang":"javascript","timestamp":1775597398,"runtime":null,"memory":null},
+        {"id":1972029283,"status":"Accepted","lang":"javascript","timestamp":1775599301,"runtime":null,"memory":null},
+        {"id":1972029712,"status":"Runtime Error","lang":"javascript","timestamp":1775599371,"runtime":null,"memory":null},
+        {"id":1972029865,"status":"Accepted","lang":"javascript","timestamp":1775599395,"runtime":null,"memory":null},
+        {"id":1972030807,"status":"Accepted","lang":"javascript","timestamp":1775599564,"runtime":"3 ms","memory":"62.3 MB"}
+      ]
+    },
+    "two-sum-ii-input-array-is-sorted": {
+      "id": "167",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Binary Search"],
+      "topic": "Array",
+      "dir": "Array/0167-two-sum-ii-input-array-is-sorted",
+      "first_attempt_at": 1775602839,
+      "last_attempt_at": 1775603977,
+      "solved_at": 1775602839,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1972053523,"status":"Accepted","lang":"javascript","timestamp":1775603977,"runtime":"2 ms","memory":"55.7 MB"}
+      },
+      "submissions": [
+        {"id":1972047818,"status":"Accepted","lang":"javascript","timestamp":1775602839,"runtime":null,"memory":null},
+        {"id":1972050357,"status":"Wrong Answer","lang":"javascript","timestamp":1775603333,"runtime":null,"memory":null},
+        {"id":1972051869,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1775603639,"runtime":null,"memory":null},
+        {"id":1972053523,"status":"Accepted","lang":"javascript","timestamp":1775603977,"runtime":"2 ms","memory":"55.7 MB"}
+      ]
+    },
+    "3sum": {
+      "id": "15",
+      "title": "3Sum",
+      "slug": "3sum",
+      "difficulty": "Medium",
+      "tags": ["Array","Two Pointers","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0015-3sum",
+      "first_attempt_at": 1775663774,
+      "last_attempt_at": 1775667074,
+      "solved_at": 1775667074,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1972796542,"status":"Accepted","lang":"javascript","timestamp":1775667074,"runtime":"49 ms","memory":"73.1 MB"}
+      },
+      "submissions": [
+        {"id":1972738288,"status":"Wrong Answer","lang":"javascript","timestamp":1775663774,"runtime":null,"memory":null},
+        {"id":1972740296,"status":"Wrong Answer","lang":"javascript","timestamp":1775663893,"runtime":null,"memory":null},
+        {"id":1972740932,"status":"Wrong Answer","lang":"javascript","timestamp":1775663929,"runtime":null,"memory":null},
+        {"id":1972741810,"status":"Wrong Answer","lang":"javascript","timestamp":1775663980,"runtime":null,"memory":null},
+        {"id":1972742730,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1775664035,"runtime":null,"memory":null},
+        {"id":1972790556,"status":"Wrong Answer","lang":"javascript","timestamp":1775666746,"runtime":null,"memory":null},
+        {"id":1972795316,"status":"Wrong Answer","lang":"javascript","timestamp":1775667002,"runtime":null,"memory":null},
+        {"id":1972796542,"status":"Accepted","lang":"javascript","timestamp":1775667074,"runtime":"49 ms","memory":"73.1 MB"}
+      ]
+    },
+    "best-time-to-buy-and-sell-stock": {
+      "id": "121",
+      "title": "Best Time to Buy and Sell Stock",
+      "slug": "best-time-to-buy-and-sell-stock",
+      "difficulty": "Easy",
+      "tags": ["Array","Dynamic Programming"],
+      "topic": "Array",
+      "dir": "Array/0121-best-time-to-buy-and-sell-stock",
+      "first_attempt_at": 1775679271,
+      "last_attempt_at": 1790979933,
+      "solved_at": 1775682365,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1973001526,"status":"Accepted","lang":"javascript","timestamp":1775682365,"runtime":"4 ms","memory":"65 MB"},
+        "python3": {"file":"solution.py","id":2160587178,"status":"Accepted","lang":"python3","timestamp":1790979933,"runtime":"54 ms","memory":"28.6 MB"}
+      },
+      "submissions": [
+        {"id":1972978321,"status":"Wrong Answer","lang":"javascript","timestamp":1775679271,"runtime":null,"memory":null},
+        {"id":1972978820,"status":"Wrong Answer","lang":"javascript","timestamp":1775679330,"runtime":null,"memory":null},
+        {"id":1972979366,"status":"Wrong Answer","lang":"javascript","timestamp":1775679396,"runtime":null,"memory":null},
+        {"id":1973001526,"status":"Accepted","lang":"javascript","timestamp":1775682365,"runtime":"4 ms","memory":"65 MB"},
+        {"id":2160587178,"status":"Accepted","lang":"python3","timestamp":1790979933,"runtime":"54 ms","memory":"28.6 MB"}
+      ]
+    },
+    "valid-palindrome-ii": {
+      "id": "680",
+      "title": "Valid Palindrome II",
+      "slug": "valid-palindrome-ii",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","Greedy"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0680-valid-palindrome-ii",
+      "first_attempt_at": 1775689624,
+      "last_attempt_at": 1790979407,
+      "solved_at": 1775689624,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1973041476,"status":"Accepted","lang":"javascript","timestamp":1775689624,"runtime":"5 ms","memory":"61.2 MB"},
+        "python3": {"file":"solution.py","id":2160584741,"status":"Accepted","lang":"python3","timestamp":1790979407,"runtime":"59 ms","memory":"19.5 MB"}
+      },
+      "submissions": [
+        {"id":1973041476,"status":"Accepted","lang":"javascript","timestamp":1775689624,"runtime":"5 ms","memory":"61.2 MB"},
+        {"id":2160584741,"status":"Accepted","lang":"python3","timestamp":1790979407,"runtime":"59 ms","memory":"19.5 MB"}
+      ]
+    },
+    "first-unique-character-in-a-string": {
+      "id": "387",
+      "title": "First Unique Character in a String",
+      "slug": "first-unique-character-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Queue","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0387-first-unique-character-in-a-string",
+      "first_attempt_at": 1793936625,
+      "last_attempt_at": 1793937132,
+      "solved_at": 1793936625,
+      "languages": {
+        "python3": {"file":"solution.py","id":2190457517,"status":"Accepted","lang":"python3","timestamp":1793937132,"runtime":"66 ms","memory":"19.5 MB"}
+      },
+      "submissions": [
+        {"id":2190454468,"status":"Accepted","lang":"python3","timestamp":1793936625,"runtime":null,"memory":null},
+        {"id":2190456968,"status":"Accepted","lang":"python3","timestamp":1793937049,"runtime":null,"memory":null},
+        {"id":2190457517,"status":"Accepted","lang":"python3","timestamp":1793937132,"runtime":"66 ms","memory":"19.5 MB"}
+      ]
+    },
+    "sort-characters-by-frequency": {
+      "id": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sorting","Heap (Priority Queue)","Bucket Sort","Counting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0451-sort-characters-by-frequency",
+      "first_attempt_at": 1793938239,
+      "last_attempt_at": 1793938239,
+      "solved_at": 1793938239,
+      "languages": {
+        "python3": {"file":"solution.py","id":2190464412,"status":"Accepted","lang":"python3","timestamp":1793938239,"runtime":"36 ms","memory":"28 MB"}
+      },
+      "submissions": [
+        {"id":2190464412,"status":"Accepted","lang":"python3","timestamp":1793938239,"runtime":"36 ms","memory":"28 MB"}
       ]
     }
   }
