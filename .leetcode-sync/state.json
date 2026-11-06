@@ -1,0 +1,314 @@
+{
+  "version": 1,
+  "synced_through": 0,
+  "problems": {
+    "two-sum": {
+      "id": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table"],
+      "topic": "Array",
+      "dir": "Array/0001-two-sum",
+      "first_attempt_at": 1718823984,
+      "last_attempt_at": 1793844087,
+      "solved_at": 1718823984,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1968703710,"status":"Accepted","lang":"javascript","timestamp":1775315381,"runtime":"1 ms","memory":"55.5 MB"},
+        "python3": {"file":"solution.py","id":2189734254,"status":"Accepted","lang":"python3","timestamp":1793844087,"runtime":"1 ms","memory":"20.4 MB"}
+      },
+      "submissions": [
+        {"id":1293890558,"status":"Accepted","lang":"javascript","timestamp":1718823984,"runtime":null,"memory":null},
+        {"id":1843511202,"status":"Wrong Answer","lang":"javascript","timestamp":1764521918,"runtime":null,"memory":null},
+        {"id":1843513770,"status":"Accepted","lang":"javascript","timestamp":1764522128,"runtime":null,"memory":null},
+        {"id":1852396775,"status":"Wrong Answer","lang":"javascript","timestamp":1765403048,"runtime":null,"memory":null},
+        {"id":1852398377,"status":"Runtime Error","lang":"javascript","timestamp":1765403333,"runtime":null,"memory":null},
+        {"id":1852398626,"status":"Accepted","lang":"javascript","timestamp":1765403373,"runtime":null,"memory":null},
+        {"id":1852398918,"status":"Accepted","lang":"javascript","timestamp":1765403420,"runtime":null,"memory":null},
+        {"id":1852980287,"status":"Accepted","lang":"javascript","timestamp":1765463997,"runtime":null,"memory":null},
+        {"id":1852981145,"status":"Accepted","lang":"javascript","timestamp":1765464060,"runtime":null,"memory":null},
+        {"id":1968703710,"status":"Accepted","lang":"javascript","timestamp":1775315381,"runtime":"1 ms","memory":"55.5 MB"},
+        {"id":1972756675,"status":"Wrong Answer","lang":"javascript","timestamp":1775664858,"runtime":null,"memory":null},
+        {"id":2160577434,"status":"Accepted","lang":"python3","timestamp":1790977949,"runtime":null,"memory":null},
+        {"id":2189734254,"status":"Accepted","lang":"python3","timestamp":1793844087,"runtime":"1 ms","memory":"20.4 MB"}
+      ]
+    },
+    "roman-to-integer": {
+      "id": "13",
+      "title": "Roman to Integer",
+      "slug": "roman-to-integer",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","Math","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0013-roman-to-integer",
+      "first_attempt_at": 1764535864,
+      "last_attempt_at": 1764535864,
+      "solved_at": 1764535864,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1843656643,"status":"Accepted","lang":"javascript","timestamp":1764535864,"runtime":"4 ms","memory":"60.6 MB"}
+      },
+      "submissions": [
+        {"id":1843656643,"status":"Accepted","lang":"javascript","timestamp":1764535864,"runtime":"4 ms","memory":"60.6 MB"}
+      ]
+    },
+    "reverse-string": {
+      "id": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0344-reverse-string",
+      "first_attempt_at": 1764541274,
+      "last_attempt_at": 1775505136,
+      "solved_at": 1764541274,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1970951630,"status":"Accepted","lang":"javascript","timestamp":1775505136,"runtime":"0 ms","memory":"60.1 MB"}
+      },
+      "submissions": [
+        {"id":1843691417,"status":"Accepted","lang":"javascript","timestamp":1764541274,"runtime":null,"memory":null},
+        {"id":1970951630,"status":"Accepted","lang":"javascript","timestamp":1775505136,"runtime":"0 ms","memory":"60.1 MB"}
+      ]
+    },
+    "fizz-buzz": {
+      "id": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "difficulty": "Easy",
+      "tags": ["Math","String","Simulation"],
+      "topic": "Math",
+      "dir": "Math/0412-fizz-buzz",
+      "first_attempt_at": 1764543488,
+      "last_attempt_at": 1790963052,
+      "solved_at": 1764543488,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1996180502,"status":"Accepted","lang":"javascript","timestamp":1778017622,"runtime":"0 ms","memory":"57.6 MB"},
+        "python3": {"file":"solution.py","id":2160419221,"status":"Accepted","lang":"python3","timestamp":1790963052,"runtime":"3 ms","memory":"19.5 MB"}
+      },
+      "submissions": [
+        {"id":1843703867,"status":"Accepted","lang":"javascript","timestamp":1764543488,"runtime":null,"memory":null},
+        {"id":1996180502,"status":"Accepted","lang":"javascript","timestamp":1778017622,"runtime":"0 ms","memory":"57.6 MB"},
+        {"id":2160419221,"status":"Accepted","lang":"python3","timestamp":1790963052,"runtime":"3 ms","memory":"19.5 MB"}
+      ]
+    },
+    "reverse-string-ii": {
+      "id": "541",
+      "title": "Reverse String II",
+      "slug": "reverse-string-ii",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0541-reverse-string-ii",
+      "first_attempt_at": 1764545742,
+      "last_attempt_at": 1764545742,
+      "solved_at": 1764545742,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1843715638,"status":"Accepted","lang":"javascript","timestamp":1764545742,"runtime":"8 ms","memory":"57.3 MB"}
+      },
+      "submissions": [
+        {"id":1843715638,"status":"Accepted","lang":"javascript","timestamp":1764545742,"runtime":"8 ms","memory":"57.3 MB"}
+      ]
+    },
+    "shuffle-string": {
+      "id": "1528",
+      "title": "Shuffle String",
+      "slug": "shuffle-string",
+      "difficulty": "Easy",
+      "tags": ["Array","String"],
+      "topic": "Array",
+      "dir": "Array/1528-shuffle-string",
+      "first_attempt_at": 1764616478,
+      "last_attempt_at": 1764616478,
+      "solved_at": 1764616478,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1844438750,"status":"Accepted","lang":"javascript","timestamp":1764616478,"runtime":"0 ms","memory":"57.2 MB"}
+      },
+      "submissions": [
+        {"id":1844438750,"status":"Accepted","lang":"javascript","timestamp":1764616478,"runtime":"0 ms","memory":"57.2 MB"}
+      ]
+    },
+    "contains-duplicate": {
+      "id": "217",
+      "title": "Contains Duplicate",
+      "slug": "contains-duplicate",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0217-contains-duplicate",
+      "first_attempt_at": 1764681428,
+      "last_attempt_at": 1793317862,
+      "solved_at": 1764682304,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1968719150,"status":"Accepted","lang":"javascript","timestamp":1775316583,"runtime":"15 ms","memory":"74.1 MB"},
+        "python3": {"file":"solution.py","id":2185113836,"status":"Accepted","lang":"python3","timestamp":1793317862,"runtime":"17 ms","memory":"33.2 MB"}
+      },
+      "submissions": [
+        {"id":1845032179,"status":"Wrong Answer","lang":"javascript","timestamp":1764681428,"runtime":null,"memory":null},
+        {"id":1845035766,"status":"Wrong Answer","lang":"javascript","timestamp":1764681715,"runtime":null,"memory":null},
+        {"id":1845036572,"status":"Wrong Answer","lang":"javascript","timestamp":1764681781,"runtime":null,"memory":null},
+        {"id":1845038490,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1764681945,"runtime":null,"memory":null},
+        {"id":1845041698,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1764682205,"runtime":null,"memory":null},
+        {"id":1845042954,"status":"Accepted","lang":"javascript","timestamp":1764682304,"runtime":null,"memory":null},
+        {"id":1845045354,"status":"Accepted","lang":"javascript","timestamp":1764682500,"runtime":null,"memory":null},
+        {"id":1968719150,"status":"Accepted","lang":"javascript","timestamp":1775316583,"runtime":"15 ms","memory":"74.1 MB"},
+        {"id":2185113836,"status":"Accepted","lang":"python3","timestamp":1793317862,"runtime":"17 ms","memory":"33.2 MB"}
+      ]
+    },
+    "valid-anagram": {
+      "id": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0242-valid-anagram",
+      "first_attempt_at": 1764684350,
+      "last_attempt_at": 1793842306,
+      "solved_at": 1764684350,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1968791465,"status":"Accepted","lang":"javascript","timestamp":1775321737,"runtime":"14 ms","memory":"61.1 MB"},
+        "python3": {"file":"solution.py","id":2189725407,"status":"Accepted","lang":"python3","timestamp":1793842306,"runtime":"13 ms","memory":"19.2 MB"}
+      },
+      "submissions": [
+        {"id":1845069266,"status":"Accepted","lang":"javascript","timestamp":1764684350,"runtime":null,"memory":null},
+        {"id":1968791465,"status":"Accepted","lang":"javascript","timestamp":1775321737,"runtime":"14 ms","memory":"61.1 MB"},
+        {"id":2189725407,"status":"Accepted","lang":"python3","timestamp":1793842306,"runtime":"13 ms","memory":"19.2 MB"}
+      ]
+    },
+    "group-anagrams": {
+      "id": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","String","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0049-group-anagrams",
+      "first_attempt_at": 1764791747,
+      "last_attempt_at": 1793849742,
+      "solved_at": 1764794608,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1990600482,"status":"Accepted","lang":"javascript","timestamp":1777415874,"runtime":"45 ms","memory":"69.7 MB"},
+        "python3": {"file":"solution.py","id":2189767564,"status":"Accepted","lang":"python3","timestamp":1793849742,"runtime":"14 ms","memory":"21.7 MB"}
+      },
+      "submissions": [
+        {"id":1846240500,"status":"Wrong Answer","lang":"javascript","timestamp":1764791747,"runtime":null,"memory":null},
+        {"id":1846262805,"status":"Accepted","lang":"javascript","timestamp":1764794608,"runtime":null,"memory":null},
+        {"id":1970697547,"status":"Accepted","lang":"javascript","timestamp":1775490235,"runtime":null,"memory":null},
+        {"id":1990600434,"status":"Accepted","lang":"javascript","timestamp":1777415865,"runtime":null,"memory":null},
+        {"id":1990600482,"status":"Accepted","lang":"javascript","timestamp":1777415874,"runtime":"45 ms","memory":"69.7 MB"},
+        {"id":2189767564,"status":"Accepted","lang":"python3","timestamp":1793849742,"runtime":"14 ms","memory":"21.7 MB"}
+      ]
+    },
+    "missing-number": {
+      "id": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Math","Binary Search","Bit Manipulation","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0268-missing-number",
+      "first_attempt_at": 1764859034,
+      "last_attempt_at": 1764859034,
+      "solved_at": 1764859034,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1846842698,"status":"Accepted","lang":"javascript","timestamp":1764859034,"runtime":"0 ms","memory":"55.8 MB"}
+      },
+      "submissions": [
+        {"id":1846842698,"status":"Accepted","lang":"javascript","timestamp":1764859034,"runtime":"0 ms","memory":"55.8 MB"}
+      ]
+    },
+    "length-of-last-word": {
+      "id": "58",
+      "title": "Length of Last Word",
+      "slug": "length-of-last-word",
+      "difficulty": "Easy",
+      "tags": ["String"],
+      "topic": "String",
+      "dir": "String/0058-length-of-last-word",
+      "first_attempt_at": 1764863818,
+      "last_attempt_at": 1793317115,
+      "solved_at": 1764864046,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1846906684,"status":"Accepted","lang":"javascript","timestamp":1764864046,"runtime":"1 ms","memory":"55.7 MB"},
+        "python3": {"file":"solution.py","id":2185111082,"status":"Accepted","lang":"python3","timestamp":1793317115,"runtime":"0 ms","memory":"19.2 MB"}
+      },
+      "submissions": [
+        {"id":1846903556,"status":"Wrong Answer","lang":"javascript","timestamp":1764863818,"runtime":null,"memory":null},
+        {"id":1846906684,"status":"Accepted","lang":"javascript","timestamp":1764864046,"runtime":"1 ms","memory":"55.7 MB"},
+        {"id":2185111082,"status":"Accepted","lang":"python3","timestamp":1793317115,"runtime":"0 ms","memory":"19.2 MB"}
+      ]
+    },
+    "keyboard-row": {
+      "id": "500",
+      "title": "Keyboard Row",
+      "slug": "keyboard-row",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","String"],
+      "topic": "Array",
+      "dir": "Array/0500-keyboard-row",
+      "first_attempt_at": 1764891323,
+      "last_attempt_at": 1764891323,
+      "solved_at": 1764891323,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1847170446,"status":"Accepted","lang":"javascript","timestamp":1764891323,"runtime":"0 ms","memory":"53.5 MB"}
+      },
+      "submissions": [
+        {"id":1847170446,"status":"Accepted","lang":"javascript","timestamp":1764891323,"runtime":"0 ms","memory":"53.5 MB"}
+      ]
+    },
+    "minimize-string-length": {
+      "id": "2716",
+      "title": "Minimize String Length",
+      "slug": "minimize-string-length",
+      "difficulty": "Easy",
+      "tags": ["Hash Table","String"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/2716-minimize-string-length",
+      "first_attempt_at": 1764971391,
+      "last_attempt_at": 1764971391,
+      "solved_at": 1764971391,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1847933361,"status":"Accepted","lang":"javascript","timestamp":1764971391,"runtime":"30 ms","memory":"65.1 MB"}
+      },
+      "submissions": [
+        {"id":1847933361,"status":"Accepted","lang":"javascript","timestamp":1764971391,"runtime":"30 ms","memory":"65.1 MB"}
+      ]
+    },
+    "find-the-index-of-the-first-occurrence-in-a-string": {
+      "id": "28",
+      "title": "Find the Index of the First Occurrence in a String",
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String","String Matching","Z Algorithm","Knuth–Morris–Pratt Algorithm","Boyer–Moore String-Search Algorithm"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0028-find-the-index-of-the-first-occurrence-in-a-string",
+      "first_attempt_at": 1764978413,
+      "last_attempt_at": 1764978413,
+      "solved_at": 1764978413,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1847965424,"status":"Accepted","lang":"javascript","timestamp":1764978413,"runtime":"192 ms","memory":"52.9 MB"}
+      },
+      "submissions": [
+        {"id":1847965424,"status":"Accepted","lang":"javascript","timestamp":1764978413,"runtime":"192 ms","memory":"52.9 MB"}
+      ]
+    },
+    "hamming-distance": {
+      "id": "461",
+      "title": "Hamming Distance",
+      "slug": "hamming-distance",
+      "difficulty": "Easy",
+      "tags": ["Bit Manipulation"],
+      "topic": "Bit Manipulation",
+      "dir": "Bit-Manipulation/0461-hamming-distance",
+      "first_attempt_at": 1765138957,
+      "last_attempt_at": 1765138957,
+      "solved_at": 1765138957,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1849600627,"status":"Accepted","lang":"javascript","timestamp":1765138957,"runtime":"0 ms","memory":"53.9 MB"}
+      },
+      "submissions": [
+        {"id":1849600627,"status":"Accepted","lang":"javascript","timestamp":1765138957,"runtime":"0 ms","memory":"53.9 MB"}
+      ]
+    }
+  }
+}
