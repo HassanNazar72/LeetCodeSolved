@@ -4,14 +4,14 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Problems | Solved | Attempted | Easy solved | Medium solved | Hard solved | Last activity |
 | --- | --- | --- | --- | --- | --- | --- |
-| 42 | 41 | 1 | 31 | 10 | 0 | 2026-11-06 |
+| 43 | 42 | 1 | 31 | 11 | 0 | 2026-11-06 |
 
 ## Topics
 
 | Topic | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- | --- |
 | [Array](Array/README.md) | 23 | 22 | 1 | 16 | 7 | 0 |
-| [Hash Table](Hash-Table/README.md) | 7 | 7 | 0 | 4 | 3 | 0 |
+| [Hash Table](Hash-Table/README.md) | 8 | 8 | 0 | 4 | 4 | 0 |
 | [Two Pointers](Two-Pointers/README.md) | 5 | 5 | 0 | 5 | 0 | 0 |
 | [Math](Math/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
 | [String](String/README.md) | 2 | 2 | 0 | 2 | 0 | 0 |
@@ -29,6 +29,8 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 
 | Date | Problem | Result | Language |
 | --- | --- | --- | --- |
+| 2026-11-06 | [791. Custom Sort String](Hash-Table/0791-custom-sort-string/README.md) | Accepted | python3 |
+| 2026-11-06 | [791. Custom Sort String](Hash-Table/0791-custom-sort-string/README.md) | Accepted | python3 |
 | 2026-11-06 | [451. Sort Characters By Frequency](Hash-Table/0451-sort-characters-by-frequency/README.md) | Accepted | python3 |
 | 2026-11-06 | [387. First Unique Character in a String](Hash-Table/0387-first-unique-character-in-a-string/README.md) | Accepted | python3 |
 | 2026-11-06 | [387. First Unique Character in a String](Hash-Table/0387-first-unique-character-in-a-string/README.md) | Accepted | python3 |
@@ -42,14 +44,12 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 2026-10-29 | [58. Length of Last Word](String/0058-length-of-last-word/README.md) | Accepted | python3 |
 | 2026-10-02 | [121. Best Time to Buy and Sell Stock](Array/0121-best-time-to-buy-and-sell-stock/README.md) | Accepted | python3 |
 | 2026-10-02 | [680. Valid Palindrome II](Two-Pointers/0680-valid-palindrome-ii/README.md) | Accepted | python3 |
-| 2026-10-02 | [1. Two Sum](Array/0001-two-sum/README.md) | Accepted | python3 |
-| 2026-10-02 | [125. Valid Palindrome](Two-Pointers/0125-valid-palindrome/README.md) | Accepted | python3 |
 
 ## Progress by month
 
 | Month | Problems solved | Submissions |
 | --- | --- | --- |
-| 2026-11 | 2 | 9 |
+| 2026-11 | 3 | 11 |
 | 2026-10 | 0 | 7 |
 | 2026-05 | 0 | 1 |
 | 2026-04 | 7 | 38 |
@@ -96,6 +96,7 @@ Every LeetCode problem I have attempted, sorted by topic. Updated automatically 
 | 541 | [Reverse String II](Two-Pointers/0541-reverse-string-ii/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 1 | 2025-11-30 | 2025-11-30 |
 | 627 | [Swap Sex of Employees](Database/0627-swap-sex-of-employees/README.md) | [Database](Database/README.md) | Easy | Solved | 2 | 2025-12-12 | 2025-12-12 |
 | 680 | [Valid Palindrome II](Two-Pointers/0680-valid-palindrome-ii/README.md) | [Two Pointers](Two-Pointers/README.md) | Easy | Solved | 2 | 2026-04-09 | 2026-04-09 |
+| 791 | [Custom Sort String](Hash-Table/0791-custom-sort-string/README.md) | [Hash Table](Hash-Table/README.md) | Medium | Solved | 2 | 2026-11-06 | 2026-11-06 |
 | 977 | [Squares of a Sorted Array](Array/0977-squares-of-a-sorted-array/README.md) | [Array](Array/README.md) | Easy | Solved | 7 | 2026-04-07 | 2026-04-07 |
 | 1051 | [Height Checker](Array/1051-height-checker/README.md) | [Array](Array/README.md) | Easy | Solved | 3 | 2025-12-17 | 2025-12-17 |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](Array/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | [Array](Array/README.md) | Easy | Solved | 1 | 2025-12-14 | 2025-12-14 |

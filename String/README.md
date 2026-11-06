@@ -32,5 +32,6 @@ Filed under their main topic, but they use this one too.
 | 500 | [Keyboard Row](../Array/0500-keyboard-row/README.md) | Array | Easy | Solved |
 | 541 | [Reverse String II](../Two-Pointers/0541-reverse-string-ii/README.md) | Two Pointers | Easy | Solved |
 | 680 | [Valid Palindrome II](../Two-Pointers/0680-valid-palindrome-ii/README.md) | Two Pointers | Easy | Solved |
+| 791 | [Custom Sort String](../Hash-Table/0791-custom-sort-string/README.md) | Hash Table | Medium | Solved |
 | 1528 | [Shuffle String](../Array/1528-shuffle-string/README.md) | Array | Easy | Solved |
 | 2716 | [Minimize String Length](../Hash-Table/2716-minimize-string-length/README.md) | Hash Table | Easy | Solved |

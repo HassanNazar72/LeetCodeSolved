@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "synced_through": 2190464412,
+  "synced_through": 2190492487,
   "problems": {
     "two-sum": {
       "id": "1",
@@ -835,6 +835,25 @@
       },
       "submissions": [
         {"id":2190464412,"status":"Accepted","lang":"python3","timestamp":1793938239,"runtime":"36 ms","memory":"28 MB"}
+      ]
+    },
+    "custom-sort-string": {
+      "id": "791",
+      "title": "Custom Sort String",
+      "slug": "custom-sort-string",
+      "difficulty": "Medium",
+      "tags": ["Hash Table","String","Sorting"],
+      "topic": "Hash Table",
+      "dir": "Hash-Table/0791-custom-sort-string",
+      "first_attempt_at": 1793941164,
+      "last_attempt_at": 1793942112,
+      "solved_at": 1793941164,
+      "languages": {
+        "python3": {"file":"solution.py","id":2190492487,"status":"Accepted","lang":"python3","timestamp":1793942112,"runtime":"0 ms","memory":"19.2 MB"}
+      },
+      "submissions": [
+        {"id":2190485270,"status":"Accepted","lang":"python3","timestamp":1793941164,"runtime":null,"memory":null},
+        {"id":2190492487,"status":"Accepted","lang":"python3","timestamp":1793942112,"runtime":"0 ms","memory":"19.2 MB"}
       ]
     }
   }

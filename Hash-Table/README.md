@@ -4,7 +4,7 @@
 
 | Problems | Solved | Attempted | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- | --- |
-| 7 | 7 | 0 | 4 | 3 | 0 |
+| 8 | 8 | 0 | 4 | 4 | 0 |
 
 | # | Problem | Difficulty | Status | Submissions | Languages | Solved on |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -14,6 +14,7 @@
 | 387 | [First Unique Character in a String](../Hash-Table/0387-first-unique-character-in-a-string/README.md) | Easy | Solved | 3 | python3 | 2026-11-06 |
 | 438 | [Find All Anagrams in a String](../Hash-Table/0438-find-all-anagrams-in-a-string/README.md) | Medium | Solved | 2 | javascript | 2026-04-07 |
 | 451 | [Sort Characters By Frequency](../Hash-Table/0451-sort-characters-by-frequency/README.md) | Medium | Solved | 1 | python3 | 2026-11-06 |
+| 791 | [Custom Sort String](../Hash-Table/0791-custom-sort-string/README.md) | Medium | Solved | 2 | python3 | 2026-11-06 |
 | 2716 | [Minimize String Length](../Hash-Table/2716-minimize-string-length/README.md) | Easy | Solved | 1 | javascript | 2025-12-05 |
 
 ## Also tagged Hash Table
