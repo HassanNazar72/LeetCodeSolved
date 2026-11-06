@@ -309,6 +309,288 @@
       "submissions": [
         {"id":1849600627,"status":"Accepted","lang":"javascript","timestamp":1765138957,"runtime":"0 ms","memory":"53.9 MB"}
       ]
+    },
+    "longest-common-prefix": {
+      "id": "14",
+      "title": "Longest Common Prefix",
+      "slug": "longest-common-prefix",
+      "difficulty": "Easy",
+      "tags": ["Array","String","Trie"],
+      "topic": "Array",
+      "dir": "Array/0014-longest-common-prefix",
+      "first_attempt_at": 1765304912,
+      "last_attempt_at": 1765304912,
+      "solved_at": 1765304912,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1851384662,"status":"Accepted","lang":"javascript","timestamp":1765304912,"runtime":"3 ms","memory":"54.9 MB"}
+      },
+      "submissions": [
+        {"id":1851384662,"status":"Accepted","lang":"javascript","timestamp":1765304912,"runtime":"3 ms","memory":"54.9 MB"}
+      ]
+    },
+    "swap-sex-of-employees": {
+      "id": "627",
+      "title": "Swap Sex of Employees",
+      "slug": "swap-sex-of-employees",
+      "difficulty": "Easy",
+      "tags": ["Database"],
+      "topic": "Database",
+      "dir": "Database/0627-swap-sex-of-employees",
+      "first_attempt_at": 1765505397,
+      "last_attempt_at": 1765505424,
+      "solved_at": 1765505424,
+      "languages": {
+        "mysql": {"file":"solution.sql","id":1853352036,"status":"Accepted","lang":"mysql","timestamp":1765505424,"runtime":"250 ms","memory":"0B"}
+      },
+      "submissions": [
+        {"id":1853351868,"status":"Wrong Answer","lang":"mysql","timestamp":1765505397,"runtime":null,"memory":null},
+        {"id":1853352036,"status":"Accepted","lang":"mysql","timestamp":1765505424,"runtime":"250 ms","memory":"0B"}
+      ]
+    },
+    "how-many-numbers-are-smaller-than-the-current-number": {
+      "id": "1365",
+      "title": "How Many Numbers Are Smaller Than the Current Number",
+      "slug": "how-many-numbers-are-smaller-than-the-current-number",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Sorting","Counting Sort"],
+      "topic": "Array",
+      "dir": "Array/1365-how-many-numbers-are-smaller-than-the-current-number",
+      "first_attempt_at": 1765732345,
+      "last_attempt_at": 1765732345,
+      "solved_at": 1765732345,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1855577079,"status":"Accepted","lang":"javascript","timestamp":1765732345,"runtime":"8 ms","memory":"58.1 MB"}
+      },
+      "submissions": [
+        {"id":1855577079,"status":"Accepted","lang":"javascript","timestamp":1765732345,"runtime":"8 ms","memory":"58.1 MB"}
+      ]
+    },
+    "transform-array-by-parity": {
+      "id": "3467",
+      "title": "Transform Array by Parity",
+      "slug": "transform-array-by-parity",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Counting"],
+      "topic": "Array",
+      "dir": "Array/3467-transform-array-by-parity",
+      "first_attempt_at": 1765733178,
+      "last_attempt_at": 1765733178,
+      "solved_at": 1765733178,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1855589025,"status":"Accepted","lang":"javascript","timestamp":1765733178,"runtime":"4 ms","memory":"58.1 MB"}
+      },
+      "submissions": [
+        {"id":1855589025,"status":"Accepted","lang":"javascript","timestamp":1765733178,"runtime":"4 ms","memory":"58.1 MB"}
+      ]
+    },
+    "count-pairs-whose-sum-is-less-than-target": {
+      "id": "2824",
+      "title": "Count Pairs Whose Sum is Less than Target",
+      "slug": "count-pairs-whose-sum-is-less-than-target",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/2824-count-pairs-whose-sum-is-less-than-target",
+      "first_attempt_at": 1765733544,
+      "last_attempt_at": 1765733544,
+      "solved_at": null,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1855594114,"status":"Wrong Answer","lang":"javascript","timestamp":1765733544,"runtime":null,"memory":null}
+      },
+      "submissions": [
+        {"id":1855594114,"status":"Wrong Answer","lang":"javascript","timestamp":1765733544,"runtime":null,"memory":null}
+      ]
+    },
+    "intersection-of-two-arrays": {
+      "id": "349",
+      "title": "Intersection of Two Arrays",
+      "slug": "intersection-of-two-arrays",
+      "difficulty": "Easy",
+      "tags": ["Array","Hash Table","Two Pointers","Binary Search","Sorting"],
+      "topic": "Array",
+      "dir": "Array/0349-intersection-of-two-arrays",
+      "first_attempt_at": 1765849295,
+      "last_attempt_at": 1765849295,
+      "solved_at": 1765849295,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1856718080,"status":"Accepted","lang":"javascript","timestamp":1765849295,"runtime":"5 ms","memory":"54.5 MB"}
+      },
+      "submissions": [
+        {"id":1856718080,"status":"Accepted","lang":"javascript","timestamp":1765849295,"runtime":"5 ms","memory":"54.5 MB"}
+      ]
+    },
+    "height-checker": {
+      "id": "1051",
+      "title": "Height Checker",
+      "slug": "height-checker",
+      "difficulty": "Easy",
+      "tags": ["Array","Sorting","Counting Sort","Bubble Sort"],
+      "topic": "Array",
+      "dir": "Array/1051-height-checker",
+      "first_attempt_at": 1765994437,
+      "last_attempt_at": 1765995300,
+      "solved_at": 1765995300,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1858304268,"status":"Accepted","lang":"javascript","timestamp":1765995300,"runtime":"0 ms","memory":"54.2 MB"}
+      },
+      "submissions": [
+        {"id":1858291717,"status":"Wrong Answer","lang":"javascript","timestamp":1765994437,"runtime":null,"memory":null},
+        {"id":1858291939,"status":"Wrong Answer","lang":"javascript","timestamp":1765994451,"runtime":null,"memory":null},
+        {"id":1858304268,"status":"Accepted","lang":"javascript","timestamp":1765995300,"runtime":"0 ms","memory":"54.2 MB"}
+      ]
+    },
+    "valid-parentheses": {
+      "id": "20",
+      "title": "Valid Parentheses",
+      "slug": "valid-parentheses",
+      "difficulty": "Easy",
+      "tags": ["String","Stack","Bracket Sequences"],
+      "topic": "String",
+      "dir": "String/0020-valid-parentheses",
+      "first_attempt_at": 1766444119,
+      "last_attempt_at": 1766444119,
+      "solved_at": 1766444119,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1862814131,"status":"Accepted","lang":"javascript","timestamp":1766444119,"runtime":"4 ms","memory":"54.8 MB"}
+      },
+      "submissions": [
+        {"id":1862814131,"status":"Accepted","lang":"javascript","timestamp":1766444119,"runtime":"4 ms","memory":"54.8 MB"}
+      ]
+    },
+    "create-hello-world-function": {
+      "id": "2667",
+      "title": "Create Hello World Function",
+      "slug": "create-hello-world-function",
+      "difficulty": "Easy",
+      "tags": [],
+      "topic": "Other",
+      "dir": "Other/2667-create-hello-world-function",
+      "first_attempt_at": 1766599633,
+      "last_attempt_at": 1766599633,
+      "solved_at": 1766599633,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1864416663,"status":"Accepted","lang":"javascript","timestamp":1766599633,"runtime":"49 ms","memory":"53.5 MB"}
+      },
+      "submissions": [
+        {"id":1864416663,"status":"Accepted","lang":"javascript","timestamp":1766599633,"runtime":"49 ms","memory":"53.5 MB"}
+      ]
+    },
+    "remove-duplicates-from-sorted-array": {
+      "id": "26",
+      "title": "Remove Duplicates from Sorted Array",
+      "slug": "remove-duplicates-from-sorted-array",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0026-remove-duplicates-from-sorted-array",
+      "first_attempt_at": 1767797263,
+      "last_attempt_at": 1767797263,
+      "solved_at": 1767797263,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1877703948,"status":"Accepted","lang":"javascript","timestamp":1767797263,"runtime":"0 ms","memory":"56.5 MB"}
+      },
+      "submissions": [
+        {"id":1877703948,"status":"Accepted","lang":"javascript","timestamp":1767797263,"runtime":"0 ms","memory":"56.5 MB"}
+      ]
+    },
+    "remove-element": {
+      "id": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "difficulty": "Easy",
+      "tags": ["Array","Two Pointers"],
+      "topic": "Array",
+      "dir": "Array/0027-remove-element",
+      "first_attempt_at": 1767891223,
+      "last_attempt_at": 1767891223,
+      "solved_at": 1767891223,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1878953226,"status":"Accepted","lang":"javascript","timestamp":1767891223,"runtime":"0 ms","memory":"53.7 MB"}
+      },
+      "submissions": [
+        {"id":1878953226,"status":"Accepted","lang":"javascript","timestamp":1767891223,"runtime":"0 ms","memory":"53.7 MB"}
+      ]
+    },
+    "top-k-frequent-elements": {
+      "id": "347",
+      "title": "Top K Frequent Elements",
+      "slug": "top-k-frequent-elements",
+      "difficulty": "Medium",
+      "tags": ["Array","Hash Table","Divide and Conquer","Sorting","Heap (Priority Queue)","Bucket Sort","Counting","Quickselect"],
+      "topic": "Array",
+      "dir": "Array/0347-top-k-frequent-elements",
+      "first_attempt_at": 1768071551,
+      "last_attempt_at": 1793933939,
+      "solved_at": 1768071551,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1970943400,"status":"Accepted","lang":"javascript","timestamp":1775504343,"runtime":"20 ms","memory":"65 MB"},
+        "python3": {"file":"solution.py","id":2190439261,"status":"Accepted","lang":"python3","timestamp":1793933939,"runtime":"12 ms","memory":"24.7 MB"}
+      },
+      "submissions": [
+        {"id":1881046122,"status":"Accepted","lang":"javascript","timestamp":1768071551,"runtime":null,"memory":null},
+        {"id":1970943400,"status":"Accepted","lang":"javascript","timestamp":1775504343,"runtime":"20 ms","memory":"65 MB"},
+        {"id":2190437286,"status":"Runtime Error","lang":"python3","timestamp":1793933550,"runtime":null,"memory":null},
+        {"id":2190439261,"status":"Accepted","lang":"python3","timestamp":1793933939,"runtime":"12 ms","memory":"24.7 MB"}
+      ]
+    },
+    "palindrome-number": {
+      "id": "9",
+      "title": "Palindrome Number",
+      "slug": "palindrome-number",
+      "difficulty": "Easy",
+      "tags": ["Math"],
+      "topic": "Math",
+      "dir": "Math/0009-palindrome-number",
+      "first_attempt_at": 1768425805,
+      "last_attempt_at": 1768425805,
+      "solved_at": 1768425805,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1885255951,"status":"Accepted","lang":"javascript","timestamp":1768425805,"runtime":"8 ms","memory":"64.8 MB"}
+      },
+      "submissions": [
+        {"id":1885255951,"status":"Accepted","lang":"javascript","timestamp":1768425805,"runtime":"8 ms","memory":"64.8 MB"}
+      ]
+    },
+    "valid-palindrome": {
+      "id": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "difficulty": "Easy",
+      "tags": ["Two Pointers","String"],
+      "topic": "Two Pointers",
+      "dir": "Two-Pointers/0125-valid-palindrome",
+      "first_attempt_at": 1768504121,
+      "last_attempt_at": 1790973093,
+      "solved_at": 1768504121,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1970956942,"status":"Accepted","lang":"javascript","timestamp":1775505658,"runtime":"8 ms","memory":"57.9 MB"},
+        "python3": {"file":"solution.py","id":2160545958,"status":"Accepted","lang":"python3","timestamp":1790973093,"runtime":"11 ms","memory":"20.8 MB"}
+      },
+      "submissions": [
+        {"id":1886171824,"status":"Accepted","lang":"javascript","timestamp":1768504121,"runtime":null,"memory":null},
+        {"id":1896814766,"status":"Accepted","lang":"javascript","timestamp":1769365831,"runtime":null,"memory":null},
+        {"id":1970956942,"status":"Accepted","lang":"javascript","timestamp":1775505658,"runtime":"8 ms","memory":"57.9 MB"},
+        {"id":2160545958,"status":"Accepted","lang":"python3","timestamp":1790973093,"runtime":"11 ms","memory":"20.8 MB"}
+      ]
+    },
+    "product-of-array-except-self": {
+      "id": "238",
+      "title": "Product of Array Except Self",
+      "slug": "product-of-array-except-self",
+      "difficulty": "Medium",
+      "tags": ["Array","Prefix Sum"],
+      "topic": "Array",
+      "dir": "Array/0238-product-of-array-except-self",
+      "first_attempt_at": 1768589962,
+      "last_attempt_at": 1768590082,
+      "solved_at": 1768590082,
+      "languages": {
+        "javascript": {"file":"solution.js","id":1887138416,"status":"Accepted","lang":"javascript","timestamp":1768590082,"runtime":"8 ms","memory":"69.6 MB"}
+      },
+      "submissions": [
+        {"id":1887136928,"status":"Time Limit Exceeded","lang":"javascript","timestamp":1768589962,"runtime":null,"memory":null},
+        {"id":1887138416,"status":"Accepted","lang":"javascript","timestamp":1768590082,"runtime":"8 ms","memory":"69.6 MB"}
+      ]
     }
   }
 }

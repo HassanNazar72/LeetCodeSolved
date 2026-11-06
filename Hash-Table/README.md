@@ -22,4 +22,7 @@ Filed under their main topic, but they use this one too.
 | 49 | [Group Anagrams](../Array/0049-group-anagrams/README.md) | Array | Medium | Solved |
 | 217 | [Contains Duplicate](../Array/0217-contains-duplicate/README.md) | Array | Easy | Solved |
 | 268 | [Missing Number](../Array/0268-missing-number/README.md) | Array | Easy | Solved |
+| 347 | [Top K Frequent Elements](../Array/0347-top-k-frequent-elements/README.md) | Array | Medium | Solved |
+| 349 | [Intersection of Two Arrays](../Array/0349-intersection-of-two-arrays/README.md) | Array | Easy | Solved |
 | 500 | [Keyboard Row](../Array/0500-keyboard-row/README.md) | Array | Easy | Solved |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](../Array/1365-how-many-numbers-are-smaller-than-the-current-number/README.md) | Array | Easy | Solved |
